@@ -1,0 +1,11 @@
+This program will launch a webpage consisting of all the movies given in entertainment_center.py. On top of user rating
+given in entertainment_center.py, it also looks up the rating on imdb and displays it. If you hover over any of the
+movie posters you should see the movie plot. If you click on the movies, its trailer would be played.
+
+To run the program, keep the following scripts in the same directory
+- movie_trailer.py
+- entertainment_center.py
+- fresh_tomatoes.py
+
+Run
+python entertainment_center.py
